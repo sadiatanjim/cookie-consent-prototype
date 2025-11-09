@@ -2,7 +2,7 @@
 A front-end prototype demonstrating cookie consent functionality, developed using semantic HTML, custom CSS, and core JavaScript for DOM manipulation and event handling.
 This cookie consent prototype reinforces practical front-end development skills, particularly in DOM manipulation, form handling, and dynamic UI behavior.
 
-## Key Concepts & Skills Demonstrated:
+### Key Concepts & Skills Demonstrated:
 
   * Implementing asynchronous behavior with setTimeout()
   * Manipulating the DOM dynamically using element.style
